@@ -116,6 +116,7 @@ body {
     align-items: center;
     width: 20rem;
     margin: 5rem auto;
+    border-radius: 20px;
   }
 
   .left img {
